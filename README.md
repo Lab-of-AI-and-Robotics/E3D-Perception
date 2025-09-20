@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<h2>Efficient 3D Perception on Embedded Systems via Interpolation-Free Tri-Plane Lifting</h2>
+<h2>Efficient 3D Perception on Embedded Systems via Interpolation-Free Tri-Plane Lifting and Volume Fusion</h2>
 
 [**Sibaek Lee**](https://minjae-lulu.github.io/) · [**Jiung Yeon**](https://humdrum-balance-b8f.notion.site/Jiung-Yeon-6754922a22814c9a95af88801a96fb4b) · [**Hyeonwoo Yu**](https://bogus2000.github.io/) 
 
